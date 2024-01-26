@@ -1,8 +1,7 @@
-# MyPlace
-
-## Your Personal Travel Companion
+# MyPlace - Your Personal Travel Companion
 
 MyPlace is your go-to app for tracking and sharing your travel experiences with friends and fellow adventurers. With MyPlace, you can effortlessly pin your visited and dream destinations on an interactive map, creating a visual travelogue that tells your unique story. Whether you're a globetrotter, a weekend explorer, or just planning your next getaway, MyPlace has you covered.
+
 
 ## Our Team
 
