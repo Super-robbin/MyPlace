@@ -24,7 +24,9 @@ MyPlace is your go-to app for tracking and sharing your travel experiences with 
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000.svg?style=for-the-badge&logo=Mapbox&logoColor=white)
 
 **Backend:**
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=MongoDB) ![Express](https://img.shields.io/badge/Express-black?logo=Express) ![Node](https://img.shields.io/badge/Node-darkgreen?logo=Node)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=MongoDB)
+![Express](https://img.shields.io/badge/Express-black?logo=Express)
+![Node](https://img.shields.io/badge/Node-darkgreen?logo=Node)
 
 ## Card wall
 
